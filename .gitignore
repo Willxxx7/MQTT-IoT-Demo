@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+*.log
+sse_iot_demo.py
+mqtt_demo.py
+websocket_server.py
+websocket_client.py
